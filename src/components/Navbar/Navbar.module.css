@@ -19,6 +19,10 @@
     color: var(--color-text);       /* Change the --color-text value in vars later */
 }
 
+.menuBtn {
+    display: none;
+}
+
 .menu {
     display: flex
 }
