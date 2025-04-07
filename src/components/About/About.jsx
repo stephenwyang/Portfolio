@@ -11,7 +11,7 @@ export const About = () => {
                         <h3>Background</h3>
                         <p>
                             I am a software developer located in the SF Bay Area, 
-                            loooking for a full-time position while I expand my knowledge in the field.                        
+                            looking for a full-time position while I expand my knowledge in the field.                        
                         </p>
                     </div>
                 </li>

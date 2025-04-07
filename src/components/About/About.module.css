@@ -82,4 +82,8 @@
         padding-right: 0;
     }
 
+    .aboutItem:hover {
+        background-size: 0 100%;
+    }
+
 }
