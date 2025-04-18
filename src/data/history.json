@@ -1,0 +1,25 @@
+[
+    {
+        "role": "Software Quality Associate",
+        "company": "Akorbi Workforce Solutions, supporting Waymo",
+        "startDate": "10/2021",
+        "endDate": "10/2022",
+        "experiences" : [
+            "Classified and sorted data collected from Waymo Vehicles.", 
+            "Created metrics for validity testing and future reproducibiliy checks.",
+            "Addressed and helped fix workflow issues.",
+            "Maintained and updated a large database of data critical for future usage." 
+        ]
+    },
+    {
+        "role": "Engineering Operations Associate",
+        "company": "Akorbi Workforce Solutions, supporting Waymo",
+        "startDate": "10/2022",
+        "endDate": "03/2023",
+        "experiences" : [
+            "Continued with previous responsibilities as a Software Quality Associate.",
+            "Collaborated with other cohorts to verify metrics & run simluations to determine software validity.",
+            "Trained new cohorts on verification and data collection" 
+        ]
+    }
+]
