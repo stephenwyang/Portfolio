@@ -1,10 +1,52 @@
 [
     {
-        "title": "CODE NAME",
-        "imageSrc": "skills/test.png"
+        "title": "Python",
+        "imageSrc": "skills/python.png",
+        "level": "Proficient"
     } ,
     {
-        "title": "Python",
-        "imageSrc": "skills/python.png"
+        "title": "Java",
+        "imageSrc": "skills/java.png",
+        "level": "Proficient"
+    } ,
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "C++",
+        "imageSrc": "skills/c++.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "Node.js",
+        "imageSrc": "skills/nodejs.png",
+        "level": "Familiar"
+    } ,
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png",
+        "level": "Familiar"
+    },
+    {
+        "title": "Kotlin",
+        "imageSrc": "skills/kotlin.png",
+        "level": "Familiar"
     }
 ]
