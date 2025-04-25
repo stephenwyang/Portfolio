@@ -16,7 +16,8 @@ export const Experience = () => {
                             <div className = {styles.skillImageContainer}>
                                 <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                             </div>
-                            <p>{`${skill.title} - ${skill.level}`}</p>
+                            <p className = {styles.expTitle}>{skill.title}</p>
+                            <p className = {styles.proficiency}>{skill.level}</p>
                         </div>
                     );
                 })}
