@@ -1,9 +1,16 @@
 [
     {
-      "title": "Portfolio",
+      "title": "Online Portfolio",
       "imageSrc": "projects/project.png",
       "description": "This website is the project! I wanted to build a portfolio website and also learn some new technology, so I chose React.js to write this portfolio with.",
       "skills": ["React", "CSS", "Node"],
       "source": "https://github.com/stephenwyang/Portfolio"
+    },
+    {
+      "title": "Discord Chat Bot",
+      "imageSrc": "projects/project.png",
+      "description": "A Discord Chat Bot I was building for a server. Focused on data collection and database usage. Coded in Node.js, using MongoDB for the database.",
+      "skills": ["MongoDB", "Node", "JavaScript"],
+      "source": "https://github.com/stephenwyang/discord-bot-beta"
     }
   ]
