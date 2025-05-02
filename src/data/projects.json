@@ -1,0 +1,9 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This website is the project! I wanted to build a portfolio website and also learn some new technology, so I chose React.js to write this portfolio with.",
+      "skills": ["React", "CSS", "Node"],
+      "source": "https://github.com/stephenwyang/Portfolio"
+    }
+  ]
