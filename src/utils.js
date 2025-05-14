@@ -3,6 +3,6 @@
 export const getImageUrl = (path) => {
     /* Maybe this works on live, but isn't working on localhost for now */
     /* return new URL(`/assets/${path}`, import.meta.url).href; */      
-    return `/assets/${path}`;
+    return `assets/${path}`;
 };
 
