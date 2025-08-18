@@ -7,9 +7,8 @@ export const Certifications = () => {
         <div className={styles.content}>
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <h3>
-                        AWS Certified Cloud Practitioner, <span className={styles.certDate}>August 2025</span>
-                    </h3>
+                    <span className = {styles.certInfo}>AWS Certified Cloud Practitioner</span>
+                    <span className={styles.certDate}>August 2025</span>
                 </li>
             </ul>
         </div>
