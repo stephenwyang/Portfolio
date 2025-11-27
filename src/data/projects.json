@@ -12,5 +12,12 @@
       "description": "A Discord Chat Bot I was building for a server. Focused on data collection and database usage. Coded in Node.js, using MongoDB for the database.",
       "skills": ["MongoDB", "Node", "JavaScript"],
       "source": "https://github.com/stephenwyang/discord-bot-beta"
+    },
+    {
+      "title": "Sudoku Text Generator",
+      "imageSrc": "projects/project.png",
+      "description": "Small component created to help generate image data to train an AI text model. Collaborative work, coded in Python.",
+      "skills": ["Python"],
+      "source": "https://github.com/stephenwyang/text_generator"
     }
   ]
