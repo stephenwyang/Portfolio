@@ -10,9 +10,8 @@ Currently, two official plugins are available:
 # Portfolio
 Code for my online Resume Website
 
-Link found here: https://stephenwyang.github.io/Portfolio/
+Link found [here](https://stephenwyang.github.io/Portfolio/), deployed using GitHub Pages.
 
-Referencing this video: 
-https://youtu.be/YQCDUJ6hhNY?si=khr2N6X_In20xrzA
+Referencing this [video](https://youtu.be/YQCDUJ6hhNY?si=khr2N6X_In20xrzA)
 
 Will try and update the look in the future!
