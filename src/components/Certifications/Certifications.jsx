@@ -8,11 +8,15 @@ export const Certifications = () => {
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
                     <span className = {styles.certInfo}>AWS Certified Cloud Practitioner</span>
-                    <span className={styles.certDate}>Summer 2025</span>
+                    <span className = {styles.certDate}>Summer 2025</span>
                 </li>
                 <li className={styles.aboutItem}>
                     <span className = {styles.certInfo}>Google AI Professional</span>
-                    <span className={styles.certDate}>Summer 2026</span>
+                    <span className = {styles.certDate}>Summer 2026</span>
+                </li>
+                <li className={styles.aboutItem}>
+                    <span className = {styles.certInfo}>Microsoft Azure AI Fundamentals</span>
+                    <span className = {styles.certDate}>Fall 2026</span>
                 </li>
             </ul>
         </div>
